@@ -1,0 +1,3 @@
+Up to the graders discretion for grading...
+
+good answers are a TPM or ARM chip, segment the network, or don't get an IOT device
